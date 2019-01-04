@@ -1,0 +1,15 @@
+.stopka{
+    color: white;
+    text-align: center;
+    background-color: #2b669a;
+}
+.gallery {
+    width: 100%;
+}
+.video {
+    width: 100%;
+    height: auto;
+}
+.breadcrumb{
+    background-color: #ba8b00;
+}
